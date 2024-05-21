@@ -15,7 +15,8 @@ This project implements reusable input controllers in React JS using Material-UI
 ## Installation
 
 Clone the repository:
-1. git clone git@github.com:harjeevantanda/resuable-input-controllers-next-js.git
+1. git clone [[git@github.com:harjeevantanda/resuable-input-controllers-next-js.git](https://github.com/webbninja2/simple-shopping-cart-reactjs-stripe.git)](https://github.com/webbninja2/simple-shopping-cart-reactjs-stripe.git)
+1. git clone 
 2. cd react-reusable-input-controllers
 
 3. npm install 
